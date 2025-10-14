@@ -1,0 +1,20 @@
+[
+    {
+        "category": "Metadata",
+        "guid": "fce25a3e-1be9-4d17-b4bb-8d86962924f1",
+        "name": "JellyseerrIntegration",
+        "description": "This plugin supports several different metadata providers and options for organizing your collection.",
+        "owner": "jellyfin",
+        "overview": "Manage Your Anime in Jellyfin",
+        "versions": [
+            {
+                "checksum": "45e0b2607c41e9d57ecc51975ca67cdb",
+                "changelog": "bug fixes and improvements",
+                "targetAbi": "10.8.13.0",
+                "sourceUrl": "https://repo.jellyfin.org/releases/other/whats-this-plugin.zip.gif",
+                "timestamp": "2025-10-14 06:02:58",
+                "version": "1.0.0.0"
+            }
+        ]
+    }
+]
