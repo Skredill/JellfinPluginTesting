@@ -11,7 +11,7 @@
                 "checksum": "45e0b2607c41e9d57ecc51975ca67cdb",
                 "changelog": "bug fixes and improvements",
                 "targetAbi": "10.8.13.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/other/whats-this-plugin.zip.gif",
+                "sourceUrl": "https://github.com/Skredill/JellfinPluginTesting/releases/download/1/JellyseerrIntegration_1.0.0.0.zip",
                 "timestamp": "2025-10-14 06:02:58",
                 "version": "1.0.0.0"
             }
